@@ -1,3 +1,6 @@
+0.43:
+* Tightened checks on metadb_handle_ptr being used for pitch shift metadata.
+
 0.42:
 * Rewrote sample buffer allocation logic for pitch/tempo/playback rate rate.
 * Flush audio data for pitch/tempo/playback rate properly this time.
