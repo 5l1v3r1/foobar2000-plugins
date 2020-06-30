@@ -7,7 +7,7 @@ static pfc::string_formatter g_get_component_about()
 {
 	pfc::string_formatter about;
 	about << "A special effect DSP for foobar2000.\n";
-	about << "Written by mudlord (mudlord@protonmail.com).\n";
+	about << "Written by mudlord.\n";
 	about << "Portions by Jon Watte, Jezar Wakefield, Chris Snowhill.\n";
 	about << "Using SoundTouch library version " << SOUNDTOUCH_VERSION << "\n";
 	about << "SoundTouch (c) Olli Parviainen\n";
